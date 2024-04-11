@@ -1,0 +1,9 @@
+pip install =>
+numpy
+pandas
+wordcloud
+Faker
+matplotlib
+matplotlib-venn
+scikit-learn
+
